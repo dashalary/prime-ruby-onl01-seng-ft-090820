@@ -13,6 +13,6 @@ def prime?(i)
 if i <= 1
 return false
 else 
-  
+ if (2..i)
 end 
 end 
