@@ -10,7 +10,7 @@ def prime?(i)
 # end 
 # end
 
-if i >= 2 && i % 2 == 0 && i.is_a?(Fixnum) && 
+if i >= 2 && i % 2 == 0 && i.is_a?(Fixnum) 
   
 return true 
 else 
