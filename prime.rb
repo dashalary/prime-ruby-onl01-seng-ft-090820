@@ -12,7 +12,7 @@ def prime?(i)
 
 if i >= 2 && i % 2 == 0 && i.is_a?(Fixnum) && 
   
-  true 
+return true 
 else 
   false 
 end 
