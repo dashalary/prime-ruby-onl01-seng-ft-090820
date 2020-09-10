@@ -5,3 +5,5 @@ if i % n == 0
   return false 
   n += 1 
 end 
+return true 
+end 
