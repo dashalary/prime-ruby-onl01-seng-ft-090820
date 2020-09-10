@@ -10,7 +10,7 @@ def prime?(i)
 # end 
 # end
 
-if i >= 2 && i % 2 == 0 && i % 1 != 0 && 
+if i >= 2 && i % 2 == 0 && i 
   
   true 
 else 
